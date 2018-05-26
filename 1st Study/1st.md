@@ -1,6 +1,6 @@
 
 
-###chaper 1
+chapter 1
 
 ```
 Title : Basic of Cpp
